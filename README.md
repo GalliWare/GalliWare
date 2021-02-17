@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m @GalliWare</h1>
+<h1 align="center">👋 Hi, I’m <a href="https://github.com/GalliWare">Craig Gallimore</a></h1>
 <ul>
 <li>👀 At the moment I’m interested in React and web development.</li>
 <li>:writing_hand: I’m currently studying :student: a Bachelor of Science in Computing with University of South Africa. </li>
